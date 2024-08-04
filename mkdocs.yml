@@ -1,6 +1,6 @@
 site_name: Nikhil Venkatachalam - Resume
 nav:
-  - Resume: resume.md
+  - Resume: index.md
 theme:
   name: material
   palette: 
