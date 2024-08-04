@@ -1,7 +1,6 @@
-site_name: MkLorum
+site_name: Nikhil Venkatachalam - Resume
 nav:
-  - Home: index.md
-  - About: about.md
+  - Resume: resume.md
 theme:
   name: material
   palette: 
