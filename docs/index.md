@@ -1,6 +1,7 @@
 [![linkedin.com/in/nikhilv123](images/linkedin.png)](https://www.linkedin.com/in/nikhilv123/)
 [![github.com/heatstroke1234](images/github.png)](https://github.com/heatstroke1234)
 [![nick.venky@gmail.com](images/gmail.png)](mailto:nick.venky@gmail.com)
+[![Link to resume document](images/docpic.png)](https://docs.google.com/document/d/1b_AnD19UmivTyxtJApY2zZZPb58ewTpXX87oJ4nskwg/edit?usp=sharing)
 
 |<h2>Nikhil Venkatachalam</h2> | 4556 Saint James Dr <br> Plano, TX 75024 <br> (309) 992-1343 |
 | :---- | :---- |
