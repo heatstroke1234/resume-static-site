@@ -1,18 +1,20 @@
-site_name: Nikhil Venkatachalam - Resume
+site_name: Nikhil Venkatachalam's Website
 nav:
   - Resume: index.md
 theme:
   name: material
-  palette: 
-
+  palette:
     # Palette toggle for light mode
     - scheme: default
+      primary: red
       toggle:
-        icon: material/brightness-7 
+        icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: red
       toggle:
-        icon: material/brightness-4
+        icon: material/lightbulb-outline
         name: Switch to light mode
+  favicon: images/favicon.png
