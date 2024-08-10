@@ -1,4 +1,5 @@
 site_name: Nikhil Venkatachalam's Website
+# Navigation bar
 nav:
   - Resume: index.md
 theme:
