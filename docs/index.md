@@ -9,7 +9,8 @@ hide:
 *Designing and developing AI-driven software systems and cloud infrastructures*  
 
 ## About Me
-I’m a Purdue Honors College student majoring in Computer Science with a Machine Intelligence focus.  I’ve built full-stack, AI-driven solutions like a GPT-4o meal-planner app (React/Next.js, Python, AWS) as well as web-scraping and NER pipelines and election-forecasting models, while collaborating in Agile teams. Self-motivated and quick to learn, I thrive on turning data science and full-stack challenges into impactful solutions.
+I’m a Purdue Honors College Computer Science major specializing in Machine Intelligence. Using React/Next.js, Python, and AWS, I’ve built AI-driven full-stack solutions such as a GPT-4o-powered meal-planner app, web-scraping and NER pipelines, and election-forecasting models while collaborating in Agile teams. Self-motivated and quick to learn, I thrive on transforming data-science and development challenges into real-world impact.
+
 
 ## Connect with Me
 [![linkedin.com/in/nikhilv123](images/linkedin.png)](https://www.linkedin.com/in/nikhilv123/)
