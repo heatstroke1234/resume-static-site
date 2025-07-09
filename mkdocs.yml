@@ -1,7 +1,8 @@
 site_name: Nikhil Venkatachalam's Website
 # Navigation bar
 nav:
-  - Resume: index.md
+  - Home: index.md
+  - Resume: resume.md
 theme:
   name: material
   palette:
