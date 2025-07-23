@@ -3,21 +3,53 @@ site_name: Nikhil Venkatachalam's Website
 nav:
   - Home: index.md
   - Resume: resume.md
+  - Timeline: timeline.md
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - pymdownx.details
+    - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
   palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to light mode
+
     # Palette toggle for light mode
-    - scheme: default
-      primary: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red 
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: red
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to light mode
+        name: Switch to system preference
   favicon: images/favicon.png
-
