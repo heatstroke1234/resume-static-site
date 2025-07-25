@@ -1,5 +1,5 @@
 # Timeline
-Here's what's been going on with me lately.
+Here's what I've been up to lately.
 
 ???+ timeline "2025/07: Personal Website Overhaul"
 
@@ -7,8 +7,8 @@ Here's what's been going on with me lately.
 
 
     **Links:**  
-    - [The website you're on right now](https://nikhilv.net)   
-    - [Site MKDocs code (GitHub)](https://github.com/heatstroke1234/resume-static-site.git)
+    - <a href="https://nikhilv.net" style="color: #a29177ff;">The website you're on right now</a>   
+    - <a href="https://github.com/heatstroke1234/resume-static-site.git" style="color: #a29177ff;">Site MKDocs code (GitHub)</a>
 
 
 ???+ timeline "2025/07/17: Received AWS Certified Developer - Associate"
@@ -16,7 +16,7 @@ Here's what's been going on with me lately.
     Due to my work in AWS over the past year, I decided to prepare for and take the test for this certification. This also renewed other AWS certifications I had received prior to this one.
 
     **Links:**  
-    - [Credly certification](https://www.credly.com/badges/ff58be62-902d-430b-80f3-d23ec3c6acba/public_url)  
+    - <a href="https://www.credly.com/badges/ff58be62-902d-430b-80f3-d23ec3c6acba/public_url" style="color: #a29177ff;">Credly certification</a><br> 
 
 
 ???+ timeline "2024/05/01: Ended Undergraduate Data Science Researcher Job"
@@ -29,8 +29,8 @@ Here's what's been going on with me lately.
     I worked over the Spring 2025 semester in order to make an AI-driven model that could predict future U.S. elections to a reasonable degree of accuracy, advised by Professor Yexiang Xue. I also presented my results to an audience of like-minded peers.
 
     **Links:**  
-    - [Project work and report (GitHub)](https://github.com/heatstroke1234/honors-project.git)  
-    - [Presentation slides (Google Slides)](https://docs.google.com/presentation/d/13WuKCTk42AL51lRlL9aP5STmM95zVfpL86f3YDGBVwg/edit?usp=sharing)
+    - <a href="https://github.com/heatstroke1234/honors-project.git" style="color: #a29177ff;">Project work and report (GitHub)</a>   
+    - <a href="https://docs.google.com/presentation/d/13WuKCTk42AL51lRlL9aP5STmM95zVfpL86f3YDGBVwg/edit?usp=sharing" style="color: #a29177ff;">Presentation slides (Google Slides)</a>
 
 
 ???+ timeline "2025/04/30: 2025 Data Mine Corporate Partners Symposium"
@@ -38,7 +38,7 @@ Here's what's been going on with me lately.
     Over the course of the 2024-2025 academic year, I worked with a team within the Knudsen Institute to design and implement web scraping solutions with BeautifulSoup and Selenium, and train an NER model to recognize and effectively categorize manufacturing terminology. We presented our work at this symposium.
 
     **Links:**  
-    - [Symposium poster and video](https://datamine.purdue.edu/knudsen-institute/)  
+    - <a href="https://datamine.purdue.edu/knudsen-institute/" style="color: #a29177ff;">Symposium poster and video</a> 
 
 
 ???+ timeline "2024/11/21: Started Stealth Startup Internship"
@@ -51,7 +51,7 @@ Here's what's been going on with me lately.
     I mentored participants in Hello World 2024, the nation's largest freshman-only hackathon. Here, I helped participants troubleshoot their submissions, using my skills in various programming languages to help solve various coding problems and fix bugs.
 
     **Links:**  
-    - [Hello World 2024 Devpost](https://hello-world-2024.devpost.com)
+    - <a href="https://hello-world-2024.devpost.com" style="color: #a29177ff;">Hello World 2024 Devpost</a>
 
 
 ???+ timeline "2024/08/19: Started Undergraduate Data Science Researcher Job"
@@ -65,8 +65,8 @@ Here's what's been going on with me lately.
 
 
     **Links:**  
-    - [The website you're on right now](https://nikhilv.net)   
-    - [Site MKDocs code (GitHub)](https://github.com/heatstroke1234/resume-static-site.git)
+    - <a href="https://nikhilv.net" style="color: #a29177ff;">The website you're on right now</a>   
+    - <a href="https://github.com/heatstroke1234/resume-static-site.git" style="color: #a29177ff;">Site MKDocs code (GitHub)</a>
 
 
 ???+ timeline "2024/07/01: Ended Tutoring Jobs"
@@ -79,7 +79,7 @@ Here's what's been going on with me lately.
     I decided to prepare for and take the test for this certification in order to enhance my capabilities in AWS.
 
     **Links:**  
-    - [Credly certification](https://www.credly.com/badges/f5538a98-14b1-4300-a031-fee89a11b78b/public_url)
+    - <a href="https://www.credly.com/badges/f5538a98-14b1-4300-a031-fee89a11b78b/public_url" style="color: #a29177ff;">Credly certification</a>
 
 
 ???+ timeline "2024/05/09: Started Tutoring Jobs"
@@ -97,7 +97,7 @@ Here's what's been going on with me lately.
     Over the course of the 2024 Spring semester, I worked with a team within CAS (Pistoia Alliance) to produce detailed data visualizations, including directed graphs, bar charts, and pie charts. We utilized Agile development as well as Python and R programming as part of a team to conduct complex data analysis for CAS Chemicals, and presented our work at this symposium.
 
     **Links:**  
-    - [Symposium poster and video](https://datamine.purdue.edu/cas/)
+    - <a href="https://datamine.purdue.edu/cas/" style="color: #a29177ff;">Symposium poster and video</a>
 
 
 ???+ timeline "2024/01/08: Started Undergraduate Data Science Researcher Job"
@@ -110,9 +110,9 @@ Here's what's been going on with me lately.
     I completed coursework taught by a Harvard professor and completed two data science projects in order to receive this certificate.
 
     **Links:**  
-    - [Certification](https://credentials.edx.org/credentials/e258ae885e3142f3b80f5c18720e22d5/)   
-    - [CYO Project (GitHub)](https://github.com/heatstroke1234/cyo_2023.git)   
-    - [MovieLens Project (GitHub)](https://github.com/heatstroke1234/movielens_2023.git)  
+    - <a href="https://credentials.edx.org/credentials/e258ae885e3142f3b80f5c18720e22d5/" style="color: #a29177ff;">Certification</a>  
+    - <a href="https://github.com/heatstroke1234/cyo_2023.git" style="color: #a29177ff;">CYO Project (GitHub)</a>   
+    - <a href="https://github.com/heatstroke1234/movielens_2023.git" style="color: #a29177ff;">MovieLens Project (GitHub)</a>
 
 
 ???+ timeline "2023/08/10: Ended Tutoring Jobs"
@@ -135,7 +135,7 @@ Here's what's been going on with me lately.
     I participated in SIGGD Game Jam 2022, a game jam for members of the SIGGD club at Purdue. Here, I worked in a small team to produce our submission for this game jam: a game where you shovel snow to make the biggest snowball you can while avoiding enemies.
 
     **Links:**   
-    - [Submission code (GitHub)](https://github.com/williamhCode/Game-Jam-2022)   
+    - <a href="https://github.com/williamhCode/Game-Jam-2022" style="color: #a29177ff;">Submission code (GitHub)</a>  
 
 
 ???+ timeline "2022/09/18: Participated in Hello World Hackathon 2022"
@@ -143,8 +143,8 @@ Here's what's been going on with me lately.
     I participated in Hello World 2022, the nation's largest freshman-only hackathon. Here, I worked with a partner to produce our submission for this hackathon: a calculator with more enhanced features and quality of life improvements compared to calculator apps found on phones.
 
     **Links:**  
-    - [Hello World 2022 Devpost](https://devpost.com/software/smart-calculator-purel0?_gl=1*14wbrt6*_gcl_au*MjA1MTgzNjg4NC4xNzUzNDcyODAy*_ga*Njc2NDc1MTg3LjE3NTM0NzI4MDI.*_ga_0YHJK3Y10M*czE3NTM0NzI4MDIkbzEkZzEkdDE3NTM0NzM4MTIkajUzJGwwJGgw)   
-    - [Submission code (GitHub)](https://github.com/heatstroke1234/smart-calculator)
+    - <a href="https://devpost.com/software/smart-calculator-purel0?_gl=1*14wbrt6*_gcl_au*MjA1MTgzNjg4NC4xNzUzNDcyODAy*_ga*Njc2NDc1MTg3LjE3NTM0NzI4MDI.*_ga_0YHJK3Y10M*czE3NTM0NzI4MDIkbzEkZzEkdDE3NTM0NzM4MTIkajUzJGwwJGgw" style="color: #a29177ff;">Hello World 2022 Devpost</a>   
+    - <a href="https://github.com/heatstroke1234/smart-calculator" style="color: #a29177ff;">Submission code (GitHub)</a>
 
 
 ???+ timeline "2022/09: Became Treasurer for the Honors College Residential Society"
@@ -177,8 +177,8 @@ Here's what's been going on with me lately.
     During this summer, I founded and led NightCode and The Future of Code, non-profit computer science organizations dedicated to the management of hackathons and the teaching of kids.
 
     **Links:**  
-    - [NightCode website](https://nightcode.vercel.app)  
-    - [NightCode Summer Hackathon Devpost](https://nightcode-2021.devpost.com)  
+    - <a href="https://nightcode.vercel.app" style="color: #a29177ff;">NightCode website</a>  
+    - <a href="https://nightcode-2021.devpost.com" style="color: #a29177ff;">NightCode Summer Hackathon Devpost</a>
 
 
 ???+ timeline "2021/01/11: Achieved Eagle Rank in Troop 747"
