@@ -46,6 +46,14 @@ Here's what's been going on with me lately.
     I started working for a stealth startup based around a generative AI meal planner app. So far, I've designed and developed a meal planner program and recipe book that creates a customized meal plan viewable in calendar format based on user preferences. To accomplish this, I've utilized Next.js for frontend, TypeScript-based Supabase Edge Functions (with Supabase database and Google OAuth authentication) for backend, and GPT-4.1-mini for meal plan generation, all deployed via AWS Amplify.
 
 
+???+ timeline "2024/10/27: Mentored in Hello World Hackathon 2024"
+
+    I mentored participants in Hello World 2024, the nation's largest freshman-only hackathon. Here, I helped participants troubleshoot their submissions, using my skills in various programming languages to help solve various coding problems and fix bugs.
+
+    **Links:**  
+    - [Hello World 2024 Devpost](https://hello-world-2024.devpost.com)
+
+
 ???+ timeline "2024/08/19: Started Undergraduate Data Science Researcher Job"
 
     I started working as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of the Knudsen Institute.
@@ -117,6 +125,25 @@ Here's what's been going on with me lately.
     I started tutoring jobs at Gideon Math and Reading and Kumon for the summer.
 
 
+???+ timeline "2023/05: Ended Role As Treasurer for the Honors College Residential Society"
+
+    I ended my role as treasurer for the Honors College Residential Society. In this role, I organized and led volunteering opportunities and events within the Honors College Residences at Purdue. I served as Treasurer in a leadership capacity, taking an active part in the organization of various events in which hundreds of students were in attendance.
+
+
+???+ timeline "2022/09/18: Participated in Hello World Hackathon 2022"
+
+    I participated in Hello World 2022, the nation's largest freshman-only hackathon. Here, I worked with a partner to produce our submission for this hackathon: a calculator with more enhanced features and quality of life improvements compared to calculator apps found on phones.
+
+    **Links:**  
+    - [Hello World 2022 Devpost](https://devpost.com/software/smart-calculator-purel0?_gl=1*14wbrt6*_gcl_au*MjA1MTgzNjg4NC4xNzUzNDcyODAy*_ga*Njc2NDc1MTg3LjE3NTM0NzI4MDI.*_ga_0YHJK3Y10M*czE3NTM0NzI4MDIkbzEkZzEkdDE3NTM0NzM4MTIkajUzJGwwJGgw)   
+    - [Submission code (GitHub)](https://github.com/heatstroke1234/smart-calculator)
+
+
+???+ timeline "2022/09: Became Treasurer for the Honors College Residential Society"
+
+    I became treasurer for the Honors College Residential Society.
+
+
 ???+ timeline "2022/08/22: Started Attending Purdue University"
 
     I started attending Purdue University.
@@ -134,5 +161,24 @@ Here's what's been going on with me lately.
 
 ???+ timeline "2021/11/07: Started Chipotle Crew Member Job"
 
-    I started my first job, working as a Crew Member at Chipotle.    
+    I started my first job, working as a Crew Member at Chipotle.  
+
+
+???+ timeline "2021/07: Coding Non-Profits Foundation and Leadership"
+
+    During this summer, I founded and led NightCode and The Future of Code, non-profit computer science organizations dedicated to the management of hackathons and the teaching of kids.
+
+    **Links:**  
+    - [NightCode website](https://nightcode.vercel.app)  
+    - [NightCode Summer Hackathon Devpost](https://nightcode-2021.devpost.com)  
+
+
+???+ timeline "2021/01/11: Achieved Eagle Rank in Troop 747"
+
+    I achieved the Eagle Rank in Boy Scouts, the highest rank available for scouts.
+
+
+???+ timeline "2020/06: Completed Eagle Project"
+
+    During this summer, I developed and executed a three-phase project, working with the City of Plano and Boy Scout Troop 747. I worked directly with the Plano, Texas city government to design and execute electronic acceptances from residents, which was a first for the city.
 
