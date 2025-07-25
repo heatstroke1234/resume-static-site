@@ -1,6 +1,16 @@
 # Timeline
 Here's what's been going on with me lately.
 
+???+ timeline "2025/07: Personal Website Overhaul"
+
+    I completed a massive overhaul of my personal website, adding more organization of pages and quality of life features.
+
+
+    **Links:**  
+    - [The website you're on right now](https://nikhilv.net)   
+    - [Site MKDocs code (GitHub)](https://github.com/heatstroke1234/resume-static-site.git)
+
+
 ???+ timeline "2025/07/17: Received AWS Certified Developer - Associate"
 
     Due to my work in AWS over the past year, I decided to prepare for and take the test for this certification. This also renewed other AWS certifications I had received prior to this one.
@@ -105,6 +115,11 @@ Here's what's been going on with me lately.
 ???+ timeline "2023/05/08: Started Tutoring Jobs"
 
     I started tutoring jobs at Gideon Math and Reading and Kumon for the summer.
+
+
+???+ timeline "2022/08/22: Started Attending Purdue University"
+
+    I started attending Purdue University.
 
 
 ???+ timeline "2022/06/04: Graduated From High School"
