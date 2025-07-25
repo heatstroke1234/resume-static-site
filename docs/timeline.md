@@ -130,6 +130,14 @@ Here's what's been going on with me lately.
     I ended my role as treasurer for the Honors College Residential Society. In this role, I organized and led volunteering opportunities and events within the Honors College Residences at Purdue. I served as Treasurer in a leadership capacity, taking an active part in the organization of various events in which hundreds of students were in attendance.
 
 
+???+ timeline "2022/09/25: Participated in SIGGD Game Jam 2022"
+
+    I participated in SIGGD Game Jam 2022, a game jam for members of the SIGGD club at Purdue. Here, I worked in a small team to produce our submission for this game jam: a game where you shovel snow to make the biggest snowball you can while avoiding enemies.
+
+    **Links:**   
+    - [Submission code (GitHub)](https://github.com/williamhCode/Game-Jam-2022)   
+
+
 ???+ timeline "2022/09/18: Participated in Hello World Hackathon 2022"
 
     I participated in Hello World 2022, the nation's largest freshman-only hackathon. Here, I worked with a partner to produce our submission for this hackathon: a calculator with more enhanced features and quality of life improvements compared to calculator apps found on phones.
