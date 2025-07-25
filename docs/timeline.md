@@ -1,20 +1,103 @@
 # Timeline
 Here's what's been going on with me lately.
 
-???+ timeline "2025-07-23 🚀 Launched Version 2.0"
+???+ timeline "2025/07/17: Received AWS Certified Developer - Associate"
 
-    We shipped the big “2.0” update, with a totally new UI and performance improvements across the board.  
-    Our users saw load-time drop by 50% on average.
-
-    **Links:**  
-    - [Release notes](https://example.com/v2-release)  
-    - [Blog post](https://blog.example.com/2-0)
-
-
-???+ timeline "2024-12-11 🎉 Hit 10,000 Users"
-
-    After six months of beta testing, we crossed 10 000 active users—way ahead of our 9-month goal. Tons of feedback poured in!  
+    Due to my work in AWS over the past year, I decided to prepare for and take the test for this certification. This also renewed other AWS certifications I had received prior to this one.
 
     **Links:**  
-    - [Analytics report](https://example.com/10k-report)  
-    - [Case study](https://case.example.com/10k)
+    - [Credly certification](https://www.credly.com/badges/ff58be62-902d-430b-80f3-d23ec3c6acba/public_url)  
+
+
+???+ timeline "2024/05/01: Ended Undergraduate Data Science Researcher Job"
+
+    I ended my work as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of the Knudsen Institute.
+
+
+???+ timeline "2025/05: Completed Honors Research Project"
+
+    I worked over the Spring 2025 semester in order to make an AI-driven model that could predict future U.S. elections to a reasonable degree of accuracy, advised by Professor Yexiang Xue. I also presented my results to an audience of like-minded peers.
+
+    **Links:**  
+    - [Project work and report (GitHub)](https://github.com/heatstroke1234/honors-project.git)  
+    - [Presentation slides (Google Slides)](https://docs.google.com/presentation/d/13WuKCTk42AL51lRlL9aP5STmM95zVfpL86f3YDGBVwg/edit?usp=sharing)
+
+
+???+ timeline "2025/04/30: 2025 Data Mine Corporate Partners Symposium"
+
+    Over the course of the 2024-2025 academic year, I worked with a team within the Knudsen Institute to design and implement web scraping solutions with BeautifulSoup and Selenium, and train an NER model to recognize and effectively categorize manufacturing terminology. We presented our work at this symposium.
+
+    **Links:**  
+    - [Symposium poster and video](https://datamine.purdue.edu/knudsen-institute/)  
+
+
+???+ timeline "2024/08/19: Started Undergraduate Data Science Researcher Job"
+
+    I started working as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of the Knudsen Institute.
+
+
+???+ timeline "2024/07/01: Ended Tutoring Jobs"
+
+    I ended my summer tutoring jobs at Gideon Math and Reading and Kumon. In these jobs, I tutored children from a range of grades K-12, helping them refine their math and reading skills through one-on-one tutoring and worksheet enhancement.
+
+
+???+ timeline "2024/06/30: Received AWS Certified Cloud Practitioner"
+
+    I decided to prepare for and take the test for this certification in order to enhance my capabilities in AWS.
+
+    **Links:**  
+    - [Credly certification](https://www.credly.com/badges/f5538a98-14b1-4300-a031-fee89a11b78b/public_url)
+
+
+???+ timeline "2024/05/09: Started Tutoring Jobs"
+
+    I started tutoring jobs at Gideon Math and Reading and Kumon for the summer.  
+
+
+???+ timeline "2024/04/26: Ended Undergraduate Data Science Researcher Job"
+
+    I ended my work as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of CAS (Pistoia Alliance).
+ 
+
+???+ timeline "2024/04/24: 2024 Data Mine Corporate Partners Symposium"
+
+    Over the course of the 2024 Spring semester, I worked with a team within CAS (Pistoia Alliance) to produce detailed data visualizations, including directed graphs, bar charts, and pie charts. We utilized Agile development as well as Python and R programming as part of a team to conduct complex data analysis for CAS Chemicals, and presented our work at this symposium.
+
+    **Links:**  
+    - [Symposium poster and video](https://datamine.purdue.edu/cas/)
+
+
+???+ timeline "2024/01/08: Started Undergraduate Data Science Researcher Job"
+
+    I started working as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of CAS (Pistoia Alliance). 
+
+
+???+ timeline "2023/08: Received HarvardX Professional Data Science Certificate"
+
+    I completed coursework taught by a Harvard professor and completed two data science projects in order to receive this certificate.
+
+    **Links:**  
+    - [Certification](https://credentials.edx.org/credentials/e258ae885e3142f3b80f5c18720e22d5/)   
+    - [CYO Project (GitHub)](https://github.com/heatstroke1234/cyo_2023.git)   
+    - [MovieLens Project (GitHub)](https://github.com/heatstroke1234/movielens_2023.git)  
+
+
+???+ timeline "2023/08/10: Ended Tutoring Jobs"
+
+    I ended my summer tutoring jobs at Gideon Math and Reading and Kumon. In these jobs, I tutored children from a range of grades K-12, helping them refine their math and reading skills through one-on-one tutoring and worksheet enhancement.
+
+
+???+ timeline "2023/05/08: Started Tutoring Jobs"
+
+    I started tutoring jobs at Gideon Math and Reading and Kumon for the summer.
+
+
+???+ timeline "2022/06/04: Ended Chipotle Crew Member Job"
+
+    I ended my Chipotle Crew Member job. In this job, I was proficient in three separate job positions (in-person order line, online order line, cashier), and I worked well with team members in order to process orders swiftly and efficiently.
+
+
+???+ timeline "2021/11/07: Started Chipotle Crew Member Job"
+
+    I started my first job, working as a Crew Member at Chipotle.    
+
