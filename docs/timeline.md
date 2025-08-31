@@ -1,6 +1,19 @@
 # Timeline
 Here's what I've been up to lately.
 
+???+ timeline "2025/08/29: Ended Stealth Startup Internship"
+
+    I ended my time working as an intern at a stealth startup. During my time, I designed and developed a meal planner program and recipe book that creates a customized meal plan viewable in calendar format based on user preferences. To accomplish this, I utilized Next.js for frontend, TypeScript-based Supabase Edge Functions (with Supabase database and Google OAuth authentication) for backend, and GPT-4.1-mini for meal plan generation, all deployed via AWS Amplify.
+
+    **Links:**  
+    - <a href="https://forksify.com" style="color: #a29177ff;">Link to web app (Forksify)</a>
+
+
+???+ timeline "2025/08/25: Started Undergraduate Data Science Researcher Job"
+
+    I started working as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of the 3M Company.
+
+
 ???+ timeline "2025/07: Personal Website Overhaul"
 
     I completed a massive overhaul of my personal website, adding more organization of pages and quality of life features.
@@ -43,7 +56,7 @@ Here's what I've been up to lately.
 
 ???+ timeline "2024/11/21: Started Stealth Startup Internship"
 
-    I started working for a stealth startup based around a generative AI meal planner app. So far, I've designed and developed a meal planner program and recipe book that creates a customized meal plan viewable in calendar format based on user preferences. To accomplish this, I've utilized Next.js for frontend, TypeScript-based Supabase Edge Functions (with Supabase database and Google OAuth authentication) for backend, and GPT-4.1-mini for meal plan generation, all deployed via AWS Amplify.
+    I started working for a stealth startup based around a generative AI meal planner app.
 
 
 ???+ timeline "2024/10/27: Mentored in Hello World Hackathon 2024"

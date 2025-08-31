@@ -5,7 +5,7 @@ hide:
 
 <!-- Hero / Intro Section -->
 # Hi, I’m **Nikhil Venkatachalam**  
-**Rising Senior, B.S. Computer Science (Machine Intelligence Track), Honors College, Purdue University**  
+**Current Senior, B.S. Computer Science (Machine Intelligence Track), Honors College, Purdue University**  
 *Designing and developing AI-driven software systems and cloud infrastructures*  
 
 ## About Me
