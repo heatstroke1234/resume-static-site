@@ -1,6 +1,21 @@
 # Timeline
 Here's what I've been up to lately.
 
+???+ timeline "2026/01/05: Started Internship at koolio.ai"
+
+    I started working for koolio.ai as a Software Development Intern.
+
+
+???+ timeline "2025/12/21: Graduated From Purdue University"
+
+    I graduated from Purdue University with a Bachelor of Science in Computer Science. This was within the Honors College, as well as with the Machine Intelligence track. I also received a Certificate in Applications of Data Science.
+
+
+???+ timeline "2025/12/12: Ended Undergraduate Data Science Researcher Job"
+
+    I ended my work as an undergraduate data science researcher at the The Data Mine in Purdue University, on behalf of the 3M Company. During my time there, I developed a consumables inventory management prototype for 3M’s accelerated weathering lab in an Agile environment. I did this by helping build the relational SQL database and connecting it to a React dashboard via a Flask API, which enabled real-time KPI tracking and low-stock/maintenance alerts, improving visibility and reducing inventory disruptions.
+
+
 ???+ timeline "2025/08/29: Ended Stealth Startup Internship"
 
     I ended my time working as an intern at a stealth startup. During my time, I designed and developed a meal planner program and recipe book that creates a customized meal plan viewable in calendar format based on user preferences. To accomplish this, I utilized Next.js for frontend, TypeScript-based Supabase Edge Functions (with Supabase database and Google OAuth authentication) for backend, and GPT-4.1-mini for meal plan generation, all deployed via AWS Amplify.
