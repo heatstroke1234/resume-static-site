@@ -1,6 +1,14 @@
 # Timeline
 Here's what I've been up to lately.
 
+???+ timeline "2026/08: Developed Personal Finance Management App"
+
+    I finished developing a full-stack finance tracker that organizes transactions into billing periods, with per-card utilization tracking and automatic balance rollover. I built it with Next.js, React, and TypeScript on a Supabase Postgres backend, plus a Claude API assistant using tool calling and web search, and containerized it with Docker and deployed it to AWS Amplify via Terraform.
+
+    **Links:**  
+    - <a href="https://github.com/heatstroke1234/spreadsheet-website" style="color: #a29177ff;">Project code (GitHub)</a>
+
+
 ???+ timeline "2026/01/05: Started Internship at koolio.ai"
 
     I started working for koolio.ai as a Software Development Intern.

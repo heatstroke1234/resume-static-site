@@ -5,11 +5,11 @@ hide:
 
 <!-- Hero / Intro Section -->
 # Hi, I’m **Nikhil Venkatachalam**  
-**Dec '25 Grad, B.S. Computer Science (Machine Intelligence Track), Honors College, Purdue University**  
+**B.S. Computer Science (Machine Intelligence Track), Honors College, Purdue University**  
 *Designing and developing AI-driven software systems and cloud infrastructures*  
 
 ## About Me
-I’m a Purdue Honors College Computer Science graduate specializing in Machine Intelligence. Using React/Next.js, Python, and AWS, I’ve built AI-driven full-stack solutions such as a GPT-powered meal-planner app, web-scraping and NER pipelines, and election-forecasting models. Self-motivated and quick to learn, I thrive on transforming data-science and development challenges into real-world impact.
+I’m a Purdue Honors College Computer Science graduate specializing in Machine Intelligence. Using React/Next.js, Python, and AWS, I’ve built AI-driven full-stack solutions such as a consumables inventory dashboard for 3M's accelerated weathering lab, a GPT-powered meal-planner app, and a full-stack personal finance tracker with a Claude-powered assistant. Self-motivated and quick to learn, I thrive on transforming data-science and development challenges into real-world impact.
 
 
 ## Connect with Me
