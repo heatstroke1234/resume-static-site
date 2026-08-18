@@ -1,0 +1,45 @@
+name: Deploy site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  AWS_REGION: us-east-1
+  S3_BUCKET: nickvenky123-resume-bucket
+  CLOUDFRONT_DISTRIBUTION_ID: E3NB991MMYJPHN
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build site
+        run: mkdocs build
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::231172409094:role/github-actions-resume-deploy
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Sync to S3
+        run: aws s3 sync site/ s3://${{ env.S3_BUCKET }} --delete
+
+      - name: Invalidate CloudFront cache
+        run: aws cloudfront create-invalidation --distribution-id ${{ env.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
