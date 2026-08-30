@@ -1,6 +1,16 @@
 # Timeline
 Here's what I've been up to lately.
 
+???+ timeline "2026/09/09: Started Attending Northeastern University"
+
+    I started attending Northeastern University, pursuing a Master of Science in Computer Science.
+
+
+???+ timeline "2026/08/28: Ended koolio.ai Internship"
+
+    I ended my internship at koolio.ai, where I worked as a full-stack engineer across koolio's React/TypeScript web and mobile clients, Python microservice backend, and admin panel. I built admin panel authentication, subscription management, and analytics dashboards; shipped mobile Firebase push notifications, deep linking, and native Google/Apple sign-in with backend provisioning; built Gemini-based content-safety filtering to enforce ElevenLabs/Lyria compliance; and stood up the team's first mobile end-to-end testing suite with Maestro and Appium, along with recurring koolAgent voice-generation fixes.
+
+
 ???+ timeline "2026/08: Developed Personal Finance Management App"
 
     I finished developing a full-stack finance tracker that organizes transactions into billing periods, with per-card utilization tracking and automatic balance rollover. I built it with Next.js, React, and TypeScript on a Supabase Postgres backend, plus a Claude API assistant using tool calling and web search, and containerized it with Docker and deployed it to AWS Amplify via Terraform.
