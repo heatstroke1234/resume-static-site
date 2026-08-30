@@ -17,9 +17,25 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 4px;
 }
-.md-typeset .resume-fallback {
+.md-typeset .resume-embed-note {
+  display: none;
   font-size: 0.75rem;
   color: var(--md-default-fg-color--light);
+}
+
+/* On phones the Drive viewer renders unusably small with dead space, so hide it
+   and lean on the download button + text version (opened by resume.js). */
+@media screen and (max-width: 600px) {
+  .resume-embed {
+    display: none;
+  }
+  .md-typeset .resume-embed-note {
+    display: block;
+  }
+  .md-typeset .md-button {
+    display: block;
+    text-align: center;
+  }
 }
 .md-typeset .admonition.timeline,
 .md-typeset details.timeline {

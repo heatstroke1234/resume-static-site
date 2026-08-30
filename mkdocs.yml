@@ -12,7 +12,10 @@ markdown_extensions:
     - pymdownx.superfences
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.css?v=2
+
+extra_javascript:
+  - javascripts/resume.js?v=1
 
 theme:
   name: material

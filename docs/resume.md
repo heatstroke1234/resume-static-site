@@ -11,6 +11,10 @@ hide:
 
 [Download PDF](https://drive.google.com/uc?export=download&id=1Q-wrFKoKJz1x7UA1IEH3LriTjhuMFR7d){ .md-button .md-button--primary }
 
+<p class="resume-embed-note">The inline viewer needs a wider screen —
+<a href="https://drive.google.com/uc?export=download&amp;id=1Q-wrFKoKJz1x7UA1IEH3LriTjhuMFR7d">download the PDF</a>,
+or read the text version below.</p>
+
 ??? note "Text version"
 
     **Nikhil Venkatachalam** — Plano, TX ·
