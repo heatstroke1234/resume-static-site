@@ -1,8 +1,134 @@
-|<h2>Nikhil Venkatachalam</h2> | 4556 Saint James Dr <br> Plano, TX 75024 <br> (309) 992-1343 |
-| :---- | :---- |
-| **SUMMARY** <br> Honors College Purdue Grad, aiming to leverage my abilities to design and develop software systems. Self-motivated, adept at quick learning, and capable of working effectively with minimal guidance. <br><br>  **WORK EXPERIENCE** <br>  *Undergraduate Data Science Researcher (The Data Mine \- Purdue University): 8/25/25 \- 12/12/25* <br> Developed a consumables inventory management prototype for 3M’s accelerated weathering lab in an Agile environment. Built the relational SQL database and connected it to a React dashboard via a Flask API. Enabled real-time KPI tracking and low-stock/maintenance alerts, improving visibility and reducing inventory disruptions. <br><br> *Stealth Startup Internship: 11/21/24 \- 8/29/25* <br> Designed and developed a meal planner program and recipe book for a startup that creates a customized meal plan viewable in calendar format based on user preferences. Utilized Next.js for frontend, TypeScript-based Supabase Edge Functions (with Supabase database and Google OAuth authentication) for backend, and GPT-4.1-mini for meal plan generation; deployed via AWS Amplify. <br><br> *Undergraduate Data Science Researcher (The Data Mine \- Purdue University): 8/19/24 \- 5/1/25* <br> Designed and implemented web scraping solutions with BeautifulSoup and Selenium, and trained an NER model to recognize and effectively categorize manufacturing terminology. Collaborated within an Agile team to address challenges involving web scraping and NER modeling for the Knudsen Institute. <br><br> **PROJECTS** <br> *Personal Site on AWS: Aug 2024, Jul 2025* <br> Developed a responsive personal website in AWS using Terraform for infrastructure as code. Implemented hosting with AWS S3, security and content delivery with AWS CloudFront, and domain management with AWS Route 53. <br><br> *Honors Research Project: Jan 2025 \- May 2025* <br> Conducted AI-driven election forecasting research advised by Professor Yexiang Xue, utilizing machine learning algorithms to analyze political data and predict electoral outcomes.​ <br><br> *HarvardX Data Science Projects: Summer 2023* <br> Created two data science projects where machine learning algorithms and visualizations in R programming were utilized to identify which movies and car brands were better than the others. | **EDUCATION** <br> Purdue University (WL) Grad (Computer Science: Machine Intelligence Track, Honors College, Applications in Data Science Cert) <br><br> **RELEVANT COURSEWORK** <br> - Computer Architecture (CS 25000\) <br> - Systems Programming (CS 25200\) <br> - Data Mining and Machine Learning (CS 37300\) <br> - Intro to Artificial Intelligence (CS 47100\) <br> - Analysis of Algorithms (CS 38100\) <br><br> **AWARDS/CERTIFICATIONS** <br> - AWS Certified Developer - Associate <br> - AWS Certified Cloud Practitioner <br> - HarvardX Professional Data Science Certificate <br> - National Merit Scholarship <br><br> **KEY SKILLS** <br> - AWS <br> - Terraform <br> - Python <br> - JavaScript/TypeScript <br> - Java <br> - HTML <br> - CSS <br> - C/C++ Programming <br> - R Programming <br> - Unix Shell <br> - Agile Development |
+---
+hide:
+  - toc
+---
 
-[![linkedin.com/in/nikhilv123](images/linkedin.png)](https://www.linkedin.com/in/nikhilv123/)
-[![github.com/heatstroke1234](images/github.png)](https://github.com/heatstroke1234)
-[![nick.venky@gmail.com](images/gmail.png)](mailto:nick.venky@gmail.com)
-[![Link to resume document](images/docpic.png)](https://docs.google.com/document/d/1imeMAIUUcHrv60dTDYUg4YdI49bnbJjuJtg79QKc-Z8/edit?usp=sharing)
+# Resume
+
+<div class="resume-embed">
+  <iframe src="https://drive.google.com/file/d/1Q-wrFKoKJz1x7UA1IEH3LriTjhuMFR7d/preview" title="Nikhil Venkatachalam — Resume" allow="autoplay"></iframe>
+</div>
+
+[Download PDF](https://drive.google.com/uc?export=download&id=1Q-wrFKoKJz1x7UA1IEH3LriTjhuMFR7d){ .md-button .md-button--primary }
+
+??? note "Text version"
+
+    **Nikhil Venkatachalam** — Plano, TX ·
+    [LinkedIn](https://www.linkedin.com/in/nikhilv123/) ·
+    [GitHub](https://github.com/heatstroke1234) ·
+    [Email](mailto:nick.venky@gmail.com)
+
+    #### Education
+
+    **Northeastern University** — Boston, MA · M.S. Computer Science · Expected May 2028
+
+    **Purdue University** — West Lafayette, IN · B.S. Computer Science, Machine
+    Intelligence Track · Honors College · December 2025
+
+    - Certificate in Applications in Data Science.
+    - Coursework: Analysis of Algorithms; Data Mining &amp; Machine Learning; Intro to
+      Artificial Intelligence; Systems Programming; Computer Architecture.
+
+    #### Experience
+
+    **Software Development Intern** — Koolio.ai · Remote · Jan 2026 – Aug 2026
+
+    - Worked full-stack across React/TypeScript web and mobile clients, a Python
+      microservice backend, and an internal admin panel.
+    - Built admin panel authentication, subscription management, and analytics
+      dashboards for monitoring product usage.
+    - Shipped mobile Firebase push notifications, deep linking, and native
+      Google/Apple sign-in with backend user provisioning.
+    - Developed Gemini-based content-safety filtering to enforce ElevenLabs and Lyria
+      compliance on generated audio.
+    - Stood up the team's first mobile E2E test suite with Maestro and Appium;
+      resolved recurring koolAgent voice-generation defects.
+
+    **Undergraduate Data Science Researcher** — The Data Mine, Purdue University (3M) ·
+    West Lafayette, IN · Aug 2025 – Dec 2025
+
+    - Built a consumables inventory management prototype for 3M's accelerated
+      weathering lab within an Agile team.
+    - Designed the relational SQL database and connected it to a React dashboard
+      through a Flask API.
+    - Enabled real-time KPI tracking with low-stock and maintenance alerts, improving
+      visibility and reducing inventory disruptions.
+
+    **Software Engineering Intern** — Stealth Startup · Remote · Nov 2024 – Aug 2025
+
+    - Designed and developed a meal planner and recipe book that renders personalized
+      meal plans in a calendar view from user preferences.
+    - Built the frontend in Next.js and the backend on TypeScript Supabase Edge
+      Functions with a Supabase database and Google OAuth.
+    - Integrated GPT-4.1-mini for meal plan generation and deployed the application
+      via AWS Amplify.
+
+    **Undergraduate Data Science Researcher** — The Data Mine, Purdue University
+    (Knudsen Institute &amp; CAS Chemicals) · West Lafayette, IN · Jan 2024 – Apr 2024,
+    Aug 2024 – May 2025
+
+    - Implemented web scraping solutions with BeautifulSoup and Selenium, and trained
+      an NER model to categorize manufacturing terminology for the Knudsen Institute.
+    - Produced data visualizations including directed graphs, bar charts, and pie
+      charts, and conducted complex analysis in Python and R for CAS Chemicals.
+
+    #### Projects
+
+    **Personal Finance Management App** · Next.js, React, TypeScript, Supabase,
+    Docker, Terraform · Mar 2026 – Aug 2026
+
+    - Built a full-stack finance tracker organizing transactions into billing periods,
+      with per-card utilization tracking and automatic balance rollover.
+    - Added a Claude API assistant using tool calling and web search; containerized
+      with Docker and deployed to AWS Amplify via Terraform.
+
+    **Personal Website on AWS** · Terraform, S3, CloudFront, Route 53 · Aug 2024, Jul 2025
+
+    - Developed a responsive personal website provisioned entirely through
+      infrastructure as code — S3 for hosting, CloudFront for security and content
+      delivery, Route 53 for domain management.
+
+    **Honors Research Project: AI Election Forecasting** · Python, Machine Learning ·
+    Jan 2025 – May 2025
+
+    - Conducted AI-driven election forecasting research advised by Professor Yexiang
+      Xue, applying machine learning algorithms to political data to predict electoral
+      outcomes.
+
+    **HarvardX Data Science Projects** · R, Machine Learning · Summer 2023
+
+    - Built two capstone projects applying machine learning algorithms and
+      visualizations in R to rank films and car brands against one another.
+
+    #### Technical Skills
+
+    - **Languages** — Python, JavaScript, TypeScript, Java, C/C++, R, SQL, HTML5/CSS, Unix Shell
+    - **Frameworks &amp; Libraries** — React, Next.js, Flask, Supabase, Firebase, BeautifulSoup, Selenium, Maestro, Appium
+    - **Cloud &amp; Tools** — AWS (S3, CloudFront, Route 53, Amplify), Terraform, Docker, PostgreSQL, Git, Agile Development
+    - **Certifications &amp; Awards** — AWS Certified Developer – Associate; AWS Certified Cloud Practitioner; HarvardX Professional Data Science Certificate; National Merit Scholarship
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nikhil Venkatachalam",
+  "jobTitle": "Software Engineer",
+  "description": "Computer Science graduate student at Northeastern University and Purdue Honors College graduate who builds AI-driven full-stack software and cloud infrastructure.",
+  "email": "mailto:nick.venky@gmail.com",
+  "address": { "@type": "PostalAddress", "addressLocality": "Plano", "addressRegion": "TX", "addressCountry": "US" },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Purdue University" },
+    { "@type": "CollegeOrUniversity", "name": "Northeastern University" }
+  ],
+  "knowsAbout": ["React", "Next.js", "TypeScript", "JavaScript", "Python", "Java", "C++", "R", "SQL", "AWS", "Terraform", "Docker", "Flask", "Supabase", "Machine Learning", "Infrastructure as Code"],
+  "hasCredential": [
+    { "@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "AWS Certified Developer – Associate" },
+    { "@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": "AWS Certified Cloud Practitioner" },
+    { "@type": "EducationalOccupationalCredential", "credentialCategory": "certificate", "name": "HarvardX Professional Data Science Certificate" }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/nikhilv123/",
+    "https://github.com/heatstroke1234"
+  ]
+}
+</script>
