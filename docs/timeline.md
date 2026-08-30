@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Timeline
 Here's what I've been up to lately.
 
